@@ -1,0 +1,36 @@
+button{
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    border: none;
+    
+    background-color: rgb(86, 78, 78);
+    color: #f0f8ff;
+    font-size: 3rem;
+    font-weight: bolder;
+    cursor: pointer;
+}
+#keys{
+    padding: 25px;
+    width: 50%;
+
+}
+#display{
+    width: 100%;
+    padding: 25px;
+    text-align: left;
+    font-size: 2rem;
+    background-color: dimgray;
+    color: white;
+    
+}
+#calculator{
+    background-color: rgb(23, 31, 31);
+    border-radius: 20px;
+}
+button:hover{
+    background-color: bisque;
+}
+.op-btn{
+    background-color: rgb(237, 237, 85);
+}
